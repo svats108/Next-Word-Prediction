@@ -1,1 +1,2 @@
 # Next-Word-Prediction
+Next Word Prediction refers to the task of predicting the most likely word(s) to follow a given sequence of words or context. This is a common application of Natural Language Processing (NLP), particularly in language models and applications such as predictive text, chatbots, and machine translation. We aim to train an LSTM model to predict the next word in a sentence or phrase using a given dataset of text. The LSTM learns patterns and dependencies in text sequences.
